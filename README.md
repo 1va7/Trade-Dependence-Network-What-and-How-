@@ -1,0 +1,2 @@
+# Trade-Dependence-Network-What-and-How-
+I adopted a network perspective and applied trade dependence theory to construct a global trade dependence network. It showed the present state and evolution of the global trade dependence network by visualization, solving the question of "What is the trade dependence network like?" I also explored the question of "How is the trade dependence network formed?" with a logistic regression model.
